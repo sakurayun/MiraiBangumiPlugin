@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/build/
+/.idea/
+
+# mirai-console working files
+/config/
+/logs/
+/data/
+/plugins/
+device.json
+
+qq_account.json
