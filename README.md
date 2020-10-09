@@ -56,7 +56,7 @@ fetchIntervalMills: 7200000  # 从远端拉取数据的时间间隔（单位：�
 commandSecondaryNames:  # 查询番剧时间表命令的别名
   - 看看番
 
-notofies:  # 分bot配置要播报的对象（好友/群组），也可以用命令更改
+notifies:  # 分bot配置要播报的对象（好友/群组），也可以用命令更改
   12345678: 
     notifyFriendList: 
       - 114514
